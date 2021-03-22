@@ -5,17 +5,17 @@ Guía base para el Talle de Docker como preámbulo al Congreso de Estudiantes de
 ![docker_logo](/images/docker_logo.png)
 
 # Agenda
-|Dia   | Tema|
-|----|-----|
-|1| Introducción e instalación de Docker |
+|Dia   | Tema|Grabacion|
+|----|-----|-|
+|1| Introducción e instalación de Docker|[Dia1](https://drive.google.com/file/d/1DuuAWDDWryR1JlAFJ61rRO2NERntiln4/view?usp=sharing)|
 |2| Docker 101|
 |3| Manipulación de contenedores|
 |4| Dockerfile|
 |5| Docker Compose 101|
 <br>
 
-# Grabaciones
-Puede encontrar las grabaciones [acá](videos.txt)
+# Recursos
+- [Presentaciones](/slides)
 
 # Contribuidores
 
