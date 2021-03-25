@@ -8,9 +8,9 @@ Guía base para el Talle de Docker como preámbulo al Congreso de Estudiantes de
 |Dia   | Tema|Grabacion|
 |----|-----|-|
 |1| Introducción e instalación de Docker|[Dia1](https://drive.google.com/file/d/1DuuAWDDWryR1JlAFJ61rRO2NERntiln4/view?usp=sharing)|
-|2| Docker 101|[Dia2](https://drive.google.com/file/d/1xeMtR7917CjfWCQRSrDAF64QH6IL7dSb/view?usp=sharing)|
+|2| Docker 101|[Dia2](https://drive.google.com/file/d/1xeMtR7917CjfWCQRSrDAF64QH6IL7dSb/view?usp=sharing)|[Dia3](https://drive.google.com/file/d/1tNW8IpPjOOAoKpAa6zlEG4HpUY0CWmpE/view?usp=sharing)|
 |3| Manipulación de contenedores|
-|4| Dockerfile|
+|4| Dockerfile|[Dia4](https://drive.google.com/file/d/1QwX8iUazb3wIywFLmuWGUN3-Iab8NwMC/view?usp=sharing)|
 |5| Docker Compose 101|
 <br>
 
