@@ -1,0 +1,18 @@
+version: '3'
+services:
+  servidor:
+    image: "sandyfabiola13/servidor_coecys2020:v1"
+    container_name: servidor
+    restart: on-failure
+    ports:
+      - "3000:3000"
+    
+
+  front:
+    image: "sandyfabiola13/front_coecys2020:v2"
+    container_name: front
+    ports:
+      - "8080:80"
+    restart: on-failure
+    depends_on:
+      - servidor

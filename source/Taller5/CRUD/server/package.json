@@ -1,0 +1,37 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Servidor",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandymerida/CRUD-MEAN.git"
+  },
+  "keywords": [
+    "CRUD",
+    "MEAN",
+    "MongoDB",
+    "Express",
+    "Angular",
+    "Nodejs"
+  ],
+  "author": "Sandy Merida",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandymerida/CRUD-MEAN/issues"
+  },
+  "homepage": "https://github.com/sandymerida/CRUD-MEAN#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.15",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
