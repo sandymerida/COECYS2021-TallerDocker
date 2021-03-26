@@ -5,12 +5,12 @@ Guía base para el Talle de Docker como preámbulo al Congreso de Estudiantes de
 ![docker_logo](/images/docker_logo.png)
 
 # Agenda
-|Dia   | Tema|Grabacion|
+|Dia   | Tema|Grabación|
 |----|-----|-|
 |1| Introducción e instalación de Docker|[Dia1](https://drive.google.com/file/d/1DuuAWDDWryR1JlAFJ61rRO2NERntiln4/view?usp=sharing)|
-|2| [Docker 101]()|[Dia2](https://drive.google.com/file/d/1xeMtR7917CjfWCQRSrDAF64QH6IL7dSb/view?usp=sharing)|
-|3| Volumenes y Puertos|[Dia3] |
-|4| Dockerfile|
+|2| [Docker 101](/Docker101.md)|[Dia2](https://drive.google.com/file/d/1xeMtR7917CjfWCQRSrDAF64QH6IL7dSb/view?usp=sharing)|
+|3| Volumenes y Puertos|[Dia3](https://drive.google.com/file/d/1tNW8IpPjOOAoKpAa6zlEG4HpUY0CWmpE/view?usp=sharing)
+|4| Dockerfile|[Dia4](https://drive.google.com/file/d/1QwX8iUazb3wIywFLmuWGUN3-Iab8NwMC/view?usp=sharing)| 
 |5| Docker Compose 101|
 <br>
 
